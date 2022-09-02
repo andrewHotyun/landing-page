@@ -62,7 +62,7 @@ h1 {
     text-align: center;
 }
 
-#section-three > * {
+#section-three > div {
     display: inline-block;
     width: 33.12%;
     box-sizing: border-box;    
