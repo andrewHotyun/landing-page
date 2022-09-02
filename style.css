@@ -58,7 +58,7 @@ h1 {
 
 #section-two {
     padding: 20px;
-    background: white;
+    background: #f4f4f4;;
     text-align: center;
 }
 
@@ -76,6 +76,7 @@ h1 {
 
 #block-two {
     padding: 20px;
+    background: #f9f9f9;
 }
 
 #block-three {
