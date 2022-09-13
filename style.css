@@ -85,3 +85,10 @@ h1 {
     padding: 20px;
 }
 
+@media screen and (max-width: 576px) {
+    #section-three > div {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;    
+    }
+}
